@@ -46,6 +46,7 @@ public class Tasca8bm_3 {
 		System.out.println(numAleatF2 + 1);
 		*/
 		
+		/*lllll*/
 		
 		System.out.print("  A B C D E \n");
 		for(int i =0;i<5;i++) {
