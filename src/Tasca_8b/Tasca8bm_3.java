@@ -38,14 +38,6 @@ public class Tasca8bm_3 {
 			numAleatC2 = aleat.nextInt(0,5);
 		}
 		
-		
-		
-	/*	System.out.print((char)numAleatC1 + 65 +"  ");
-		System.out.println(numAleatF1 + 1);
-		System.out.print((char)numAleatC2 + 65  +"  ");
-		System.out.println(numAleatF2 + 1);
-		*/
-		
 		/*lllll*/
 		
 		System.out.print("  A B C D E \n");
