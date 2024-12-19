@@ -16,8 +16,7 @@ public class Tasca8b_1 {
 	int b = 0;
 
 	System.out.println("Inroduix el numero d'elements que vols introduir");
-		int numElements = in.nextInt();
-	
+	int numElements = in.nextInt();
 	int mat1 []= new int [numElements];
 	int mat2 []= new int [numElements];
 	int calc = numElements*numElements;
