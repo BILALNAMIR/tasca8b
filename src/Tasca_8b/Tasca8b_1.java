@@ -5,7 +5,7 @@ package Tasca_8b;
  * Exemple matriu[1][3] = 4 . Un cop construïda la matriu cal mostrar-la per pantalla. Si la mida n és 4 hauria de sortir això:*/
 
 import java.util.Scanner;
-
+//hola
 public class Tasca8b_1 {	
 	public static void main(String[] args) {
 		
